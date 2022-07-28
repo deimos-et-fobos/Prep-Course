@@ -1,0 +1,21 @@
+body{
+  background: url(https://www.desarrollolibre.net/public/images/example//css/fondo-vivo-css.png);
+}
+img {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+div {
+  margin: auto;
+}
+#thirdDiv {
+  height: 600px;
+  background: green;
+  padding: 50px;
+  border: dashed red;
+}
+#spanId{
+  font-size: 18px;
+  margin: 50px;
+}
