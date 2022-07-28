@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-# JavaScript II
+# JavaScript II 
 
 #### Flujos de control, operadores lógicos, bucles ***for***
 
